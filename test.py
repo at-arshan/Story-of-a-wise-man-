@@ -1,4 +1,6 @@
-from playsound 
-import playsound 
-playsound("alert.mp3")
-print("new meesage!")
+print(type(10))
+print(type(2.6))
+print(2+2)
+print(2**2)
+print(type(331))
+print("Hello World!!!")

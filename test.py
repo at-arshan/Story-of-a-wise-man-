@@ -7,3 +7,4 @@ print("Hello World!!!")
 print(type("arshan"))
 print(type(3.5))
 int(3.8)
+ # type: ignore hello
